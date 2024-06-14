@@ -15,5 +15,3 @@ Commands that you can use in Recon:
 - router
 - gip
 - exit
-
-### Installation
