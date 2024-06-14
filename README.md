@@ -16,4 +16,6 @@ Commands that you can use in Recon:
 - gip
 - exit
 
-## Installation
+### Installation
+[Recon - Windows Executeable]([http](https://github.com/harimtim/Recon/raw/main/Recon.exe)
+[Recon - Python Source Code](https://raw.githubusercontent.com/harimtim/Recon/main/Recon.py)
