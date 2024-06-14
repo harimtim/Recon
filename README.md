@@ -1,5 +1,5 @@
 # Generell
-If you want the Source Code or just the Recon.py file write me on Discord harimtim.xyz
+If you want the Source Code or just the Recon.py file write me on Discord harimtim.xyz\
 And if you like to get in contact, you can also add me there.
 
 # About Recon Tool
