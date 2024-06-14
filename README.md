@@ -1,5 +1,5 @@
 # Generell
-Recon is written by harimtim. The tool is just for educational and learning purposes only. 
+Recon is written by harimtim. The tool is just for educational and learning purposes only. If you found some bugs or erros please make sure to report them.
 
 # Recon Tool
 Recon Tool is a simple Tool where you can test around and maybe learn something new.\
