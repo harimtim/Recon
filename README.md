@@ -18,4 +18,4 @@ Commands that you can use in Recon:
 
 ### Installation
 [Recon - Windows Executeable](https://github.com/harimtim/Recon/raw/main/Recon.exe)\
-[Recon - Python Source Code](https://raw.githubusercontent.com/harimtim/Recon/main/Recon.py)\
+[Recon - Python Source Code](https://raw.githubusercontent.com/harimtim/Recon/main/Recon.py)
