@@ -4,7 +4,7 @@ And if you like to get in contact, you can also add me there.
 
 # About Recon Tool
 Recon Tool is a simple "Tool" where you can test around and maybe learn something new.\
-n Some of the build in Commands like:
+Commands that you can use in Recon:
 
 - help 
 - clear
@@ -16,4 +16,3 @@ n Some of the build in Commands like:
 - router
 - gip
 - exit
-
