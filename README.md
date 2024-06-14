@@ -17,4 +17,3 @@ Commands that you can use in Recon:
 - exit
 
 ### Installation
-'cide'
