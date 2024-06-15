@@ -21,6 +21,6 @@ This are all implemented commands that you can use in Recon:
 - exit
 
 ### Install Recon Tool via PyPi
-´´´
+```
 pip install -i https://test.pypi.org/simple/ recon-tester
-´´´
+```
