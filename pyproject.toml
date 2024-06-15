@@ -1,0 +1,33 @@
+[project]
+name = "recon_tester"
+description = "Just a little tool to play around"
+requires-python = ">=3"
+license = {text = "MIT"}
+
+readme = "README.md"
+keywords = ["recon", "recon_tester"]
+authors = [
+    { name = "harimtim" }
+]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "License :: OSI Approved :: MIT License",
+    "Intended Audience :: Developers",
+    "Operating System :: Microsoft :: Windows",
+    "Programming Language :: Python :: 3",
+]
+dynamic = ["dependencies", "version"]
+
+[tool.setuptools.dynamic]
+dependencies = {file = "requirements.txt"}
+version = {attr = "recon_tester.__version__"}
+
+[tool.setuptools]
+packages = ["recon_tester"] 
+
+[project.urls]
+GitHub = "https://github.com/harimtim/Recon"
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
