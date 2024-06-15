@@ -20,7 +20,7 @@ This are all implemented commands that you can use in Recon:
 - gip
 - exit
 
-#### Install
+### Install
 ```
 pip install -i https://test.pypi.org/simple/ recon-tester
 ```
