@@ -1,11 +1,11 @@
 [project]
-name = "recon_tester"
+name = "recon_test"
 description = "Just a little tool to play around"
 requires-python = ">=3"
 license = {text = "MIT"}
 
 readme = "README.md"
-keywords = ["recon", "recon_tester"]
+keywords = ["recon", "recon_test"]
 authors = [
     { name = "harimtim" }
 ]
@@ -20,10 +20,10 @@ dynamic = ["dependencies", "version"]
 
 [tool.setuptools.dynamic]
 dependencies = {file = "requirements.txt"}
-version = {attr = "recon_tester.__version__"}
+version = {attr = "recon_test.__version__"}
 
 [tool.setuptools]
-packages = ["recon_tester"] 
+packages = ["recon_test"] 
 
 [project.urls]
 GitHub = "https://github.com/harimtim/Recon"

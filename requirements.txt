@@ -1,11 +1,6 @@
-os
-time
-sys
 requests
-socket
 art
-colorama
+colorama4
 secrets
 pythonping
-threading
 netifaces
