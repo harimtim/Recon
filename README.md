@@ -24,3 +24,6 @@ This are all implemented commands that you can use in Recon:
 ```
 pip install -i https://test.pypi.org/simple/ recon-tester
 ```
+```
+test
+```
